@@ -75,6 +75,7 @@ This project is ideal for:
 
 ## 🙌 Author
 **Siddhartha Kulshreshtha**
+
 Aspiring Data Analyst | Ex-PHP Developer
 
 ---
